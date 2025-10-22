@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="205db982-0d2d-49ad-94cf-f75f64b6e893" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sanchit/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-    </list>
+    <list default="true" id="205db982-0d2d-49ad-94cf-f75f64b6e893" name="Changes" comment="sanchit update function" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,8 +98,25 @@
       <updated>1761078809471</updated>
       <workItem from="1761078811748" duration="575000" />
       <workItem from="1761079400117" duration="1592000" />
-      <workItem from="1761105618449" duration="480000" />
+      <workItem from="1761105618449" duration="800000" />
     </task>
+    <task id="LOCAL-00001" summary="sanchit update">
+      <option name="closed" value="true" />
+      <created>1761106236835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1761106236835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="sanchit update function">
+      <option name="closed" value="true" />
+      <created>1761106380830</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1761106380830</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,5 +169,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sanchit update" />
+    <MESSAGE value="sanchit update function" />
+    <option name="LAST_COMMIT_MESSAGE" value="sanchit update function" />
   </component>
 </project>
