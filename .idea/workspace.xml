@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="205db982-0d2d-49ad-94cf-f75f64b6e893" name="Changes" comment="sanchit update function" />
+    <list default="true" id="205db982-0d2d-49ad-94cf-f75f64b6e893" name="Changes" comment="sanchit update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/functions/src/main.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +101,7 @@
       <updated>1761078809471</updated>
       <workItem from="1761078811748" duration="575000" />
       <workItem from="1761079400117" duration="1592000" />
-      <workItem from="1761105618449" duration="800000" />
+      <workItem from="1761105618449" duration="1605000" />
     </task>
     <task id="LOCAL-00001" summary="sanchit update">
       <option name="closed" value="true" />
@@ -116,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761106380830</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="sanchit update">
+      <option name="closed" value="true" />
+      <created>1761106583017</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761106583017</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,8 +182,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="sanchit update" />
     <MESSAGE value="sanchit update function" />
-    <option name="LAST_COMMIT_MESSAGE" value="sanchit update function" />
+    <MESSAGE value="sanchit update" />
+    <option name="LAST_COMMIT_MESSAGE" value="sanchit update" />
   </component>
 </project>
